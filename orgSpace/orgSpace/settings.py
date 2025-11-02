@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'orgSpace_frontend',
+    'orgSpace_app',
 ]
 
 MIDDLEWARE = [
