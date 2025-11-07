@@ -1,0 +1,588 @@
+Folder PATH listing for volume Nahida
+Volume serial number is 7011-FAFE
+C:.
++---frontend
+¦   +---node_modules
+¦   ¦   +---.bin
+¦   ¦   +---.vite
+¦   ¦   ¦   +---deps
+¦   ¦   +---.vite-temp
+¦   ¦   +---@babel
+¦   ¦   ¦   +---code-frame
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---compat-data
+¦   ¦   ¦   ¦   +---data
+¦   ¦   ¦   +---core
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦   ¦   +---config
+¦   ¦   ¦   ¦   ¦   ¦   +---files
+¦   ¦   ¦   ¦   ¦   ¦   +---helpers
+¦   ¦   ¦   ¦   ¦   ¦   +---validation
+¦   ¦   ¦   ¦   ¦   +---errors
+¦   ¦   ¦   ¦   ¦   +---gensync-utils
+¦   ¦   ¦   ¦   ¦   +---parser
+¦   ¦   ¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   ¦   ¦   +---tools
+¦   ¦   ¦   ¦   ¦   +---transformation
+¦   ¦   ¦   ¦   ¦   ¦   +---file
+¦   ¦   ¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   ¦   ¦   +---vendor
+¦   ¦   ¦   ¦   +---src
+¦   ¦   ¦   ¦       +---config
+¦   ¦   ¦   ¦           +---files
+¦   ¦   ¦   +---generator
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦       +---generators
+¦   ¦   ¦   ¦       +---node
+¦   ¦   ¦   +---helper-compilation-targets
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---helper-globals
+¦   ¦   ¦   ¦   +---data
+¦   ¦   ¦   +---helper-module-imports
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---helper-module-transforms
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---helper-plugin-utils
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---helper-string-parser
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---helper-validator-identifier
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---helper-validator-option
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---helpers
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦       +---helpers
+¦   ¦   ¦   +---parser
+¦   ¦   ¦   ¦   +---bin
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦   +---typings
+¦   ¦   ¦   +---plugin-transform-react-jsx-self
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---plugin-transform-react-jsx-source
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---template
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   +---traverse
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦       +---path
+¦   ¦   ¦   ¦       ¦   +---inference
+¦   ¦   ¦   ¦       ¦   +---lib
+¦   ¦   ¦   ¦       +---scope
+¦   ¦   ¦   ¦           +---lib
+¦   ¦   ¦   +---types
+¦   ¦   ¦       +---lib
+¦   ¦   ¦           +---asserts
+¦   ¦   ¦           ¦   +---generated
+¦   ¦   ¦           +---ast-types
+¦   ¦   ¦           ¦   +---generated
+¦   ¦   ¦           +---builders
+¦   ¦   ¦           ¦   +---flow
+¦   ¦   ¦           ¦   +---generated
+¦   ¦   ¦           ¦   +---react
+¦   ¦   ¦           ¦   +---typescript
+¦   ¦   ¦           +---clone
+¦   ¦   ¦           +---comments
+¦   ¦   ¦           +---constants
+¦   ¦   ¦           ¦   +---generated
+¦   ¦   ¦           +---converters
+¦   ¦   ¦           +---definitions
+¦   ¦   ¦           +---modifications
+¦   ¦   ¦           ¦   +---flow
+¦   ¦   ¦           ¦   +---typescript
+¦   ¦   ¦           +---retrievers
+¦   ¦   ¦           +---traverse
+¦   ¦   ¦           +---utils
+¦   ¦   ¦           ¦   +---react
+¦   ¦   ¦           +---validators
+¦   ¦   ¦               +---generated
+¦   ¦   ¦               +---react
+¦   ¦   +---@esbuild
+¦   ¦   ¦   +---win32-x64
+¦   ¦   +---@eslint
+¦   ¦   ¦   +---config-array
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦       +---cjs
+¦   ¦   ¦   ¦       ¦   +---std__path
+¦   ¦   ¦   ¦       +---esm
+¦   ¦   ¦   ¦           +---std__path
+¦   ¦   ¦   +---config-helpers
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦       +---cjs
+¦   ¦   ¦   ¦       +---esm
+¦   ¦   ¦   +---core
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦       +---cjs
+¦   ¦   ¦   ¦       +---esm
+¦   ¦   ¦   +---eslintrc
+¦   ¦   ¦   ¦   +---conf
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦   ¦   +---config-array
+¦   ¦   ¦   ¦   ¦   +---shared
+¦   ¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   ¦   +---node_modules
+¦   ¦   ¦   ¦       +---globals
+¦   ¦   ¦   +---js
+¦   ¦   ¦   ¦   +---src
+¦   ¦   ¦   ¦   ¦   +---configs
+¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   +---object-schema
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦       +---cjs
+¦   ¦   ¦   ¦       +---esm
+¦   ¦   ¦   +---plugin-kit
+¦   ¦   ¦       +---dist
+¦   ¦   ¦           +---cjs
+¦   ¦   ¦           +---esm
+¦   ¦   +---@eslint-community
+¦   ¦   ¦   +---eslint-utils
+¦   ¦   ¦   ¦   +---node_modules
+¦   ¦   ¦   ¦       +---eslint-visitor-keys
+¦   ¦   ¦   ¦           +---dist
+¦   ¦   ¦   ¦           +---lib
+¦   ¦   ¦   +---regexpp
+¦   ¦   +---@humanfs
+¦   ¦   ¦   +---core
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦   +---src
+¦   ¦   ¦   +---node
+¦   ¦   ¦       +---dist
+¦   ¦   ¦       +---src
+¦   ¦   +---@humanwhocodes
+¦   ¦   ¦   +---module-importer
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦   +---src
+¦   ¦   ¦   +---retry
+¦   ¦   ¦       +---dist
+¦   ¦   +---@jridgewell
+¦   ¦   ¦   +---gen-mapping
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   ¦   +---src
+¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   +---remapping
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦   +---src
+¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   +---resolve-uri
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦       +---types
+¦   ¦   ¦   +---sourcemap-codec
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦   +---src
+¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   +---trace-mapping
+¦   ¦   ¦       +---dist
+¦   ¦   ¦       +---src
+¦   ¦   ¦       +---types
+¦   ¦   +---@nodelib
+¦   ¦   ¦   +---fs.scandir
+¦   ¦   ¦   ¦   +---out
+¦   ¦   ¦   ¦       +---adapters
+¦   ¦   ¦   ¦       +---providers
+¦   ¦   ¦   ¦       +---types
+¦   ¦   ¦   ¦       +---utils
+¦   ¦   ¦   +---fs.stat
+¦   ¦   ¦   ¦   +---out
+¦   ¦   ¦   ¦       +---adapters
+¦   ¦   ¦   ¦       +---providers
+¦   ¦   ¦   ¦       +---types
+¦   ¦   ¦   +---fs.walk
+¦   ¦   ¦       +---out
+¦   ¦   ¦           +---providers
+¦   ¦   ¦           +---readers
+¦   ¦   ¦           +---types
+¦   ¦   +---@rolldown
+¦   ¦   ¦   +---pluginutils
+¦   ¦   ¦       +---dist
+¦   ¦   +---@rollup
+¦   ¦   ¦   +---rollup-win32-x64-gnu
+¦   ¦   ¦   +---rollup-win32-x64-msvc
+¦   ¦   +---@types
+¦   ¦   ¦   +---babel__core
+¦   ¦   ¦   +---babel__generator
+¦   ¦   ¦   +---babel__template
+¦   ¦   ¦   +---babel__traverse
+¦   ¦   ¦   +---estree
+¦   ¦   ¦   +---json-schema
+¦   ¦   ¦   +---node
+¦   ¦   ¦   ¦   +---assert
+¦   ¦   ¦   ¦   +---compatibility
+¦   ¦   ¦   ¦   +---dns
+¦   ¦   ¦   ¦   +---fs
+¦   ¦   ¦   ¦   +---readline
+¦   ¦   ¦   ¦   +---stream
+¦   ¦   ¦   ¦   +---timers
+¦   ¦   ¦   ¦   +---ts5.6
+¦   ¦   ¦   ¦   ¦   +---compatibility
+¦   ¦   ¦   ¦   +---ts5.7
+¦   ¦   ¦   ¦   ¦   +---compatibility
+¦   ¦   ¦   ¦   +---web-globals
+¦   ¦   ¦   +---react
+¦   ¦   ¦   ¦   +---ts5.0
+¦   ¦   ¦   +---react-dom
+¦   ¦   ¦       +---test-utils
+¦   ¦   +---@typescript-eslint
+¦   ¦   ¦   +---eslint-plugin
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦   ¦   +---configs
+¦   ¦   ¦   ¦   ¦   ¦   +---eslintrc
+¦   ¦   ¦   ¦   ¦   ¦   +---flat
+¦   ¦   ¦   ¦   ¦   +---rules
+¦   ¦   ¦   ¦   ¦   ¦   +---enum-utils
+¦   ¦   ¦   ¦   ¦   ¦   +---naming-convention-utils
+¦   ¦   ¦   ¦   ¦   ¦   +---prefer-optional-chain-utils
+¦   ¦   ¦   ¦   ¦   +---util
+¦   ¦   ¦   ¦   +---node_modules
+¦   ¦   ¦   ¦       +---ignore
+¦   ¦   ¦   +---parser
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---project-service
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---scope-manager
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦       +---definition
+¦   ¦   ¦   ¦       +---lib
+¦   ¦   ¦   ¦       +---referencer
+¦   ¦   ¦   ¦       +---scope
+¦   ¦   ¦   ¦       +---variable
+¦   ¦   ¦   +---tsconfig-utils
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---type-utils
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦       +---typeOrValueSpecifiers
+¦   ¦   ¦   +---types
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦       +---generated
+¦   ¦   ¦   +---typescript-estree
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦   ¦   +---create-program
+¦   ¦   ¦   ¦   ¦   +---jsx
+¦   ¦   ¦   ¦   ¦   +---parseSettings
+¦   ¦   ¦   ¦   ¦   +---ts-estree
+¦   ¦   ¦   ¦   +---node_modules
+¦   ¦   ¦   ¦       +---.bin
+¦   ¦   ¦   ¦       +---brace-expansion
+¦   ¦   ¦   ¦       ¦   +---.github
+¦   ¦   ¦   ¦       +---minimatch
+¦   ¦   ¦   ¦       ¦   +---dist
+¦   ¦   ¦   ¦       ¦       +---commonjs
+¦   ¦   ¦   ¦       ¦       +---esm
+¦   ¦   ¦   ¦       +---semver
+¦   ¦   ¦   ¦           +---bin
+¦   ¦   ¦   ¦           +---classes
+¦   ¦   ¦   ¦           +---functions
+¦   ¦   ¦   ¦           +---internal
+¦   ¦   ¦   ¦           +---ranges
+¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦       +---ast-utils
+¦   ¦   ¦   ¦       ¦   +---eslint-utils
+¦   ¦   ¦   ¦       +---eslint-utils
+¦   ¦   ¦   ¦       +---ts-eslint
+¦   ¦   ¦   ¦       ¦   +---eslint
+¦   ¦   ¦   ¦       +---ts-utils
+¦   ¦   ¦   +---visitor-keys
+¦   ¦   ¦       +---dist
+¦   ¦   +---@vitejs
+¦   ¦   ¦   +---plugin-react
+¦   ¦   ¦       +---dist
+¦   ¦   ¦       +---types
+¦   ¦   +---acorn
+¦   ¦   ¦   +---bin
+¦   ¦   ¦   +---dist
+¦   ¦   +---acorn-jsx
+¦   ¦   +---ajv
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦   +---compile
+¦   ¦   ¦   ¦   +---dot
+¦   ¦   ¦   ¦   +---dotjs
+¦   ¦   ¦   ¦   +---refs
+¦   ¦   ¦   +---scripts
+¦   ¦   +---ansi-styles
+¦   ¦   +---argparse
+¦   ¦   ¦   +---lib
+¦   ¦   +---babel-plugin-react-compiler
+¦   ¦   ¦   +---dist
+¦   ¦   +---balanced-match
+¦   ¦   ¦   +---.github
+¦   ¦   +---baseline-browser-mapping
+¦   ¦   ¦   +---dist
+¦   ¦   +---brace-expansion
+¦   ¦   +---braces
+¦   ¦   ¦   +---lib
+¦   ¦   +---browserslist
+¦   ¦   +---callsites
+¦   ¦   +---caniuse-lite
+¦   ¦   ¦   +---data
+¦   ¦   ¦   ¦   +---features
+¦   ¦   ¦   ¦   +---regions
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---lib
+¦   ¦   ¦       +---unpacker
+¦   ¦   +---chalk
+¦   ¦   ¦   +---source
+¦   ¦   +---color-convert
+¦   ¦   +---color-name
+¦   ¦   +---concat-map
+¦   ¦   ¦   +---example
+¦   ¦   ¦   +---test
+¦   ¦   +---convert-source-map
+¦   ¦   +---cross-spawn
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---util
+¦   ¦   +---csstype
+¦   ¦   +---debug
+¦   ¦   ¦   +---src
+¦   ¦   +---deep-is
+¦   ¦   ¦   +---example
+¦   ¦   ¦   +---test
+¦   ¦   +---electron-to-chromium
+¦   ¦   +---esbuild
+¦   ¦   ¦   +---bin
+¦   ¦   ¦   +---lib
+¦   ¦   +---escalade
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---sync
+¦   ¦   +---escape-string-regexp
+¦   ¦   +---eslint
+¦   ¦   ¦   +---bin
+¦   ¦   ¦   +---conf
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦   +---cli-engine
+¦   ¦   ¦   ¦   ¦   +---formatters
+¦   ¦   ¦   ¦   +---config
+¦   ¦   ¦   ¦   +---eslint
+¦   ¦   ¦   ¦   +---languages
+¦   ¦   ¦   ¦   ¦   +---js
+¦   ¦   ¦   ¦   ¦       +---source-code
+¦   ¦   ¦   ¦   ¦           +---token-store
+¦   ¦   ¦   ¦   +---linter
+¦   ¦   ¦   ¦   ¦   +---code-path-analysis
+¦   ¦   ¦   ¦   +---rule-tester
+¦   ¦   ¦   ¦   +---rules
+¦   ¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦   ¦       +---unicode
+¦   ¦   ¦   ¦   +---services
+¦   ¦   ¦   ¦   +---shared
+¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   +---messages
+¦   ¦   +---eslint-plugin-react-hooks
+¦   ¦   ¦   +---cjs
+¦   ¦   +---eslint-plugin-react-refresh
+¦   ¦   +---eslint-scope
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---lib
+¦   ¦   +---eslint-visitor-keys
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---lib
+¦   ¦   +---espree
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---lib
+¦   ¦   +---esquery
+¦   ¦   ¦   +---dist
+¦   ¦   +---esrecurse
+¦   ¦   +---estraverse
+¦   ¦   +---esutils
+¦   ¦   ¦   +---lib
+¦   ¦   +---fast-deep-equal
+¦   ¦   ¦   +---es6
+¦   ¦   +---fast-glob
+¦   ¦   ¦   +---node_modules
+¦   ¦   ¦   ¦   +---glob-parent
+¦   ¦   ¦   +---out
+¦   ¦   ¦       +---managers
+¦   ¦   ¦       +---providers
+¦   ¦   ¦       ¦   +---filters
+¦   ¦   ¦       ¦   +---matchers
+¦   ¦   ¦       ¦   +---transformers
+¦   ¦   ¦       +---readers
+¦   ¦   ¦       +---types
+¦   ¦   ¦       +---utils
+¦   ¦   +---fast-json-stable-stringify
+¦   ¦   ¦   +---.github
+¦   ¦   ¦   +---benchmark
+¦   ¦   ¦   +---example
+¦   ¦   ¦   +---test
+¦   ¦   +---fast-levenshtein
+¦   ¦   +---fastq
+¦   ¦   ¦   +---.github
+¦   ¦   ¦   ¦   +---workflows
+¦   ¦   ¦   +---test
+¦   ¦   +---file-entry-cache
+¦   ¦   +---fill-range
+¦   ¦   +---find-up
+¦   ¦   +---flat-cache
+¦   ¦   ¦   +---src
+¦   ¦   +---flatted
+¦   ¦   ¦   +---cjs
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   +---php
+¦   ¦   ¦   +---python
+¦   ¦   ¦   +---types
+¦   ¦   +---gensync
+¦   ¦   ¦   +---test
+¦   ¦   +---glob-parent
+¦   ¦   +---globals
+¦   ¦   +---graphemer
+¦   ¦   ¦   +---lib
+¦   ¦   +---has-flag
+¦   ¦   +---ignore
+¦   ¦   +---import-fresh
+¦   ¦   +---imurmurhash
+¦   ¦   +---is-extglob
+¦   ¦   +---is-glob
+¦   ¦   +---is-number
+¦   ¦   +---isexe
+¦   ¦   ¦   +---test
+¦   ¦   +---js-tokens
+¦   ¦   +---js-yaml
+¦   ¦   ¦   +---bin
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---schema
+¦   ¦   ¦       +---type
+¦   ¦   +---jsesc
+¦   ¦   ¦   +---bin
+¦   ¦   ¦   +---man
+¦   ¦   +---json-buffer
+¦   ¦   ¦   +---test
+¦   ¦   +---json-schema-traverse
+¦   ¦   ¦   +---spec
+¦   ¦   ¦       +---fixtures
+¦   ¦   +---json-stable-stringify-without-jsonify
+¦   ¦   ¦   +---example
+¦   ¦   ¦   +---test
+¦   ¦   +---json5
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---lib
+¦   ¦   +---keyv
+¦   ¦   ¦   +---src
+¦   ¦   +---levn
+¦   ¦   ¦   +---lib
+¦   ¦   +---locate-path
+¦   ¦   +---lodash.merge
+¦   ¦   +---lru-cache
+¦   ¦   +---merge2
+¦   ¦   +---micromatch
+¦   ¦   +---minimatch
+¦   ¦   +---ms
+¦   ¦   +---nanoid
+¦   ¦   ¦   +---async
+¦   ¦   ¦   +---bin
+¦   ¦   ¦   +---non-secure
+¦   ¦   ¦   +---url-alphabet
+¦   ¦   +---natural-compare
+¦   ¦   +---node-releases
+¦   ¦   ¦   +---data
+¦   ¦   ¦       +---processed
+¦   ¦   ¦       +---release-schedule
+¦   ¦   +---optionator
+¦   ¦   ¦   +---lib
+¦   ¦   +---p-limit
+¦   ¦   +---p-locate
+¦   ¦   +---parent-module
+¦   ¦   +---path-exists
+¦   ¦   +---path-key
+¦   ¦   +---picocolors
+¦   ¦   +---picomatch
+¦   ¦   ¦   +---lib
+¦   ¦   +---postcss
+¦   ¦   ¦   +---lib
+¦   ¦   +---prelude-ls
+¦   ¦   ¦   +---lib
+¦   ¦   +---punycode
+¦   ¦   +---queue-microtask
+¦   ¦   +---react
+¦   ¦   ¦   +---cjs
+¦   ¦   +---react-dom
+¦   ¦   ¦   +---cjs
+¦   ¦   +---react-refresh
+¦   ¦   ¦   +---cjs
+¦   ¦   +---resolve-from
+¦   ¦   +---reusify
+¦   ¦   ¦   +---.github
+¦   ¦   ¦   ¦   +---workflows
+¦   ¦   ¦   +---benchmarks
+¦   ¦   +---rollup
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---bin
+¦   ¦   ¦       +---es
+¦   ¦   ¦       ¦   +---shared
+¦   ¦   ¦       +---shared
+¦   ¦   +---run-parallel
+¦   ¦   +---scheduler
+¦   ¦   ¦   +---cjs
+¦   ¦   +---semver
+¦   ¦   ¦   +---bin
+¦   ¦   +---shebang-command
+¦   ¦   +---shebang-regex
+¦   ¦   +---source-map-js
+¦   ¦   ¦   +---lib
+¦   ¦   +---strip-json-comments
+¦   ¦   +---supports-color
+¦   ¦   +---tinyglobby
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   +---node_modules
+¦   ¦   ¦       +---fdir
+¦   ¦   ¦       ¦   +---dist
+¦   ¦   ¦       +---picomatch
+¦   ¦   ¦           +---lib
+¦   ¦   +---to-regex-range
+¦   ¦   +---ts-api-utils
+¦   ¦   ¦   +---lib
+¦   ¦   +---type-check
+¦   ¦   ¦   +---lib
+¦   ¦   +---typescript
+¦   ¦   ¦   +---bin
+¦   ¦   ¦   +---lib
+¦   ¦   ¦       +---cs
+¦   ¦   ¦       +---de
+¦   ¦   ¦       +---es
+¦   ¦   ¦       +---fr
+¦   ¦   ¦       +---it
+¦   ¦   ¦       +---ja
+¦   ¦   ¦       +---ko
+¦   ¦   ¦       +---pl
+¦   ¦   ¦       +---pt-br
+¦   ¦   ¦       +---ru
+¦   ¦   ¦       +---tr
+¦   ¦   ¦       +---zh-cn
+¦   ¦   ¦       +---zh-tw
+¦   ¦   +---typescript-eslint
+¦   ¦   ¦   +---dist
+¦   ¦   +---undici-types
+¦   ¦   +---update-browserslist-db
+¦   ¦   +---uri-js
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       +---es5
+¦   ¦   ¦       +---esnext
+¦   ¦   ¦           +---schemes
+¦   ¦   +---vite
+¦   ¦   ¦   +---bin
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦   +---client
+¦   ¦   ¦   ¦   +---node
+¦   ¦   ¦   ¦       +---chunks
+¦   ¦   ¦   +---misc
+¦   ¦   ¦   +---node_modules
+¦   ¦   ¦   ¦   +---fdir
+¦   ¦   ¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦   +---picomatch
+¦   ¦   ¦   ¦       +---lib
+¦   ¦   ¦   +---types
+¦   ¦   ¦       +---internal
+¦   ¦   +---which
+¦   ¦   ¦   +---bin
+¦   ¦   +---word-wrap
+¦   ¦   +---yallist
+¦   ¦   +---yocto-queue
+¦   +---public
+¦   +---src
+¦       +---assets
++---orgSpace
+¦   +---__pycache__
++---orgSpace_app
+    +---__pycache__
