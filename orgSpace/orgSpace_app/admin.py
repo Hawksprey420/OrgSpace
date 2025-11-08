@@ -1,6 +1,7 @@
 from django.contrib import admin
-from .models import Program, StudentSubmission
 from django.utils import timezone
+from .models import Program, StudentSubmission
+
 
 @admin.action(description="Approve selected submissions")
 def approve_submissions(modeladmin, request, queryset):
@@ -10,11 +11,20 @@ def approve_submissions(modeladmin, request, queryset):
         verified_at=timezone.now(),
     )
 
+
+@admin.register(StudentSubmission)
 class StudentSubmissionAdmin(admin.ModelAdmin):
-    list_display = ("student_number", "lastname", "firstname", "program", "college", "is_verified")
-    list_filter = ("program", "college", "is_verified")
-    search_fields = ("student_number", "lastname", "firstname")
+    list_display = (
+        "email",
+        "sui_address",
+        "is_verified",
+        "issued_at",
+        "verified_by",
+        "verified_at",
+    )
+    list_filter = ("is_verified",)
+    search_fields = ("email", "sui_address")
     actions = [approve_submissions]
 
+
 admin.site.register(Program)
-admin.site.register(StudentSubmission, StudentSubmissionAdmin)
