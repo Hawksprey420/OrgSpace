@@ -25,7 +25,6 @@
   <link rel="stylesheet" href="{% static 'src/assets/css/style.css' %}" id="main-style-link">
   <link rel="stylesheet" href="{% static 'src/assets/css/style-preset.css' %}">
 </head>
-
 <body>
 
   <div class="loader-bg">
@@ -39,7 +38,9 @@
       <div class="auth-form">
 
         <div class="auth-header">
-          <a href="#"><img src="{% static 'src/assets/images/logo-dark.svg' %}" alt="img"></a>
+          <a href="#">
+            <img src="{% static 'src/assets/images/logo-dark.svg' %}" alt="logo">
+          </a>
         </div>
 
         <div class="card my-5">
@@ -62,8 +63,8 @@
 
             <div class="d-flex mt-1 justify-content-between">
               <div class="form-check">
-                <input class="form-check-input input-primary" type="checkbox" id="customCheckc1" checked="">
-                <label class="form-check-label text-muted" for="customCheckc1">Keep me signed in</label>
+                <input class="form-check-input input-primary" type="checkbox" id="keepSignedIn">
+                <label class="form-check-label text-muted" for="keepSignedIn">Keep me signed in</label>
               </div>
               <h5 class="text-secondary f-w-400">Forgot Password?</h5>
             </div>
@@ -78,24 +79,30 @@
 
             <div class="row">
               <div class="col-4">
-                <button class="btn mt-2 btn-light-primary bg-light text-muted d-grid">
-                  <img src="{% static 'src/assets/images/authentication/google.svg' %}" alt="img">
-                  <span class="d-none d-sm-inline-block">Google</span>
-                </button>
+                <div class="d-grid">
+                  <button type="button" class="btn mt-2 btn-light-primary bg-light text-muted">
+                    <img src="{% static 'src/assets/images/authentication/google.svg' %}" alt="Google">
+                    <span class="d-none d-sm-inline-block"> Google</span>
+                  </button>
+                </div>
               </div>
 
               <div class="col-4">
-                <button class="btn mt-2 btn-light-primary bg-light text-muted d-grid">
-                  <img src="{% static 'src/assets/images/authentication/twitter.svg' %}" alt="img">
-                  <span class="d-none d-sm-inline-block">Twitter</span>
-                </button>
+                <div class="d-grid">
+                  <button type="button" class="btn mt-2 btn-light-primary bg-light text-muted">
+                    <img src="{% static 'src/assets/images/authentication/twitter.svg' %}" alt="Twitter">
+                    <span class="d-none d-sm-inline-block"> Twitter</span>
+                  </button>
+                </div>
               </div>
 
               <div class="col-4">
-                <button class="btn mt-2 btn-light-primary bg-light text-muted d-grid">
-                  <img src="{% static 'src/assets/images/authentication/facebook.svg' %}" alt="img">
-                  <span class="d-none d-sm-inline-block">Facebook</span>
-                </button>
+                <div class="d-grid">
+                  <button type="button" class="btn mt-2 btn-light-primary bg-light text-muted">
+                    <img src="{% static 'src/assets/images/authentication/facebook.svg' %}" alt="Facebook">
+                    <span class="d-none d-sm-inline-block"> Facebook</span>
+                  </button>
+                </div>
               </div>
             </div>
 
