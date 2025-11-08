@@ -9,3 +9,6 @@ def officer_dashboard(request):
 
 def login_view(request):
     return render(request, "orgSpace_app/registration/login.html")
+
+def student_dashboard(request):
+    return render(request, "orgSpace_app/student_dashboard.html")
